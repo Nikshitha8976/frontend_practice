@@ -1,0 +1,41 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+
+}
+h1
+{
+    color:blue;
+}
+.navbar
+{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:20px;
+    border:solid black 5px;
+    
+}
+.navbar a
+{
+    text-decoration: none;
+    color:purple;
+    padding:10px 30px;
+     
+}
+.hero
+{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:70vh;
+    background-image: url('https://res.cloudinary.com/vistaprint/images/f_auto,q_auto/v1769245709/ideas-and-advice-prod/blogadmin/types-logos-featured/types-logos-featured.jpg?_i=AA');
+    background-size: cover;
+}
+.hero h1{
+    color:black;
+    font-size:50px;
+}

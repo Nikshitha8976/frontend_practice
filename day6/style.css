@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.days {
+    text-align: center;
+}
+
+.copy {
+    margin-top: 250px;
+}
+body {
+    background-color: aqua;
+    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background: #000 url("https://www.w3schools.com/w3images/forestbridge.jpg") no-repeat center/cover; */
+
+    color: white;
+}
